@@ -1,0 +1,1 @@
+{"name":" Rehmat Ali","FatherName":" Qurban Ali","DateofBirth":" 16/11/2002","Address":" Hussain Abad Colony Jutial Giligt","Qualification":" BS Information Technology"}
